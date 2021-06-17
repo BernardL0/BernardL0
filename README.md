@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bernard
+# Hi 👋, I’m Bernard
 - 👀 I’m a BS Computer Science Student
 - 🌱 I’m currently learning computer programming
 - 💞️ I’m looking to collaborate on ...
